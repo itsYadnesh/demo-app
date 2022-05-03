@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "MoNo": "6358955214",
+      "dob": "20/02/1666"
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "MoNo": "6358955214",
+      "dob": "20/02/1666"
+    },
+    {
+      "id": 3,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "MoNo": "6358955214",
+      "dob": "20/02/1666"
+    },
+    {
+      "id": 4,
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "MoNo": "6358955214",
+      "dob": "20/02/1666"
+    }
+  ]
+}
